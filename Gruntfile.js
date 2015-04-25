@@ -80,7 +80,7 @@
         },
         pages: {
           options: {
-            remote: 'origin',
+            remote: 'git@github.com:iamcarrico/culture-of-performance.git',
             branch: 'gh-pages'
           }
         }
