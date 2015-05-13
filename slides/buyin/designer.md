@@ -2,6 +2,7 @@
 
 * You can't have good design and be performant <!-- .element: class="fragment" -->
 * Don't take away my web fonts <!-- .element: class="fragment" -->
+* The PSD was already approved <!-- .element: class="fragment" -->
 
 
 Note: More myths that seem to pop up constantly. Mainly that designers will be unable to have good design by the constraints of performance. In reality,

@@ -1,1 +1,1 @@
-## Getting everybody on board to performant choices on the web
+## Getting everybody on board to make performant choices on the web

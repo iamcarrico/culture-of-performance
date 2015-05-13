@@ -1,4 +1,4 @@
-# CXO
+## CXO
 
 * How will this effect our bottom line? <!-- .element: class="fragment" -->
 * What about advertising revenue? <!-- .element: class="fragment" -->

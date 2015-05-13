@@ -30,6 +30,13 @@
   ],
   [
     {
+      "filename": "culture/quote.md",
+      "attr": {
+        "data-state": "culture",
+        "id": "quote"
+      }
+    },
+    {
       "filename": "culture/what.md",
       "attr": {
         "data-state": "culture",
@@ -132,14 +139,42 @@
         "data-state": "choices",
         "id": "video"
       }
+    },
+    {
+      "filename": "choices/ci.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "ci"
+      }
     }
   ],
   [
     {
-      "filename": "performance/is.md",
+      "filename": "wrap/wrap-up.md",
       "attr": {
-        "data-state": "intro",
-        "id": "is"
+        "data-state": "wrap",
+        "id": "wrap"
+      }
+    },
+    {
+      "filename": "wrap/questions.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "questions"
+      }
+    },
+    {
+      "filename": "wrap/fin.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "fin"
+      }
+    },
+    {
+      "filename": "wrap/feedback.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "feedback"
       }
     }
   ]
